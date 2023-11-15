@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theecypher
-- 👀 I’m interested in JavaScript, React, Tailwind css
+- 👀 I’m interested in JavaScript, React, Tailwind css, vite js 
 - 🌱 I’m currently learning JavaScript,React, Nodejs 
 - 💞️ I’m looking to collaborate on Frontend Project. 
 - 📫 How to reach me obioramma12@gmail.com
